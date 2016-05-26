@@ -10,5 +10,6 @@ WORKDIR /code
 VOLUME /code
 
 EXPOSE 8000
+#gkjhgkj
 
 CMD python manage.py runserver 0.0.0.0:8000
